@@ -42,3 +42,12 @@ h3 {
 audio {
     margin-top: 20px;
 }
+
+footer {
+    background-color: #000;
+    width: 100%;
+}
+
+h6 {
+    color: white;
+}
